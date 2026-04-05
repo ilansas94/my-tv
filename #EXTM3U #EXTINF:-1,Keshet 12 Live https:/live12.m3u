@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Keshet 12 Live
-https://israel-itv.top
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Israel",ערוץ 12
+https://akamaized.net
